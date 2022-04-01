@@ -1,0 +1,10 @@
+main h1 {
+    font-weight: bolder;
+    color: lightcyan;
+    text-align: center;
+}
+
+main .col {
+    display: inline;
+    vertical-align: middle;
+}
