@@ -1,9 +1,10 @@
 html {
-    background-image: url("/images/sunset.jpg");
+    background-image: url("https://images-ext-1.discordapp.net/external/JNg3QdZcKfXRuOBPTsDyCMhJODfniYlEEvV3QYbL4XE/%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D2070%26q%3D80/https/images.unsplash.com/photo-1612863229236-60722f5ef8c9?width=879&height=586");
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #4202ba;
+    background-color: #131210;
 }
+
 
 main {
     flex: 1 0 auto
@@ -15,6 +16,6 @@ body {
 }
 
 .nav-wrapper {
-    background-color: #4202ba;
+    background-color: #05275b;
 }
 

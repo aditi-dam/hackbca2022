@@ -1,7 +1,10 @@
 h1 {
     font-weight: bolder;
     color: white;
+    text-align: center;
+    font-size: 3em;
+    margin: 1.25em;
 }
 p {
-    color: black;
+    color: #05275b;
 }

@@ -2,15 +2,17 @@ h1 {
     font-weight: bolder;
     color: white;
     text-align: center;
+    font-size: 3em;
+    margin: 1.25em;
 }
 
 .card-title {
-    color: #4202ba;
+    color: #05275b;
 }
 
 textarea.materialize-textarea {
-    background-color: #b1e4fa;
-    height: 10rem;
+    background-color: white;
+    height: 8rem;
 }
 
 .button-wrapper {
