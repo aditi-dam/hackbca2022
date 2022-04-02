@@ -8,11 +8,11 @@ h1 {
     color: #4202ba;
 }
 
-.nav-wrapper {
-    background-color: #4202ba;
+textarea.materialize-textarea {
+    background-color: #b1e4fa;
+    height: 10rem;
 }
 
-textarea.materialize-textarea {
-    background-color: lightblue;
-    height: 10rem;
+.button-wrapper {
+    align-self: center;
 }

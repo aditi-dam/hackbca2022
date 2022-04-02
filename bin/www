@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('webapp2022-hackbca:server');
+var debug = require('debug')('mbti_webpage:server');
 var http = require('http');
 
 /**
