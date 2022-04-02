@@ -1,0 +1,18 @@
+html {
+    background-image: url("/images/sunset.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #4202ba;
+}
+
+main {
+    flex: 1 0 auto
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Added to make footer at bottom*/ 
+}
+
+

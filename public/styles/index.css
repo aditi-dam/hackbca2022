@@ -1,10 +1,18 @@
-main h1 {
+h1 {
     font-weight: bolder;
-    color: lightcyan;
+    color: white;
     text-align: center;
 }
 
-main .col {
-    display: inline;
-    vertical-align: middle;
+.card-title {
+    color: #4202ba;
+}
+
+.nav-wrapper {
+    background-color: #4202ba;
+}
+
+textarea.materialize-textarea {
+    background-color: lightblue;
+    height: 10rem;
 }
